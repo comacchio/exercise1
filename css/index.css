@@ -30,7 +30,6 @@ body{
 }
 
 .main{
-    display: block;
     margin-top: 5em;
 }    
 
@@ -42,6 +41,12 @@ h1{
     padding-bottom: 1.5em;
 }
 
+
+figure{
+    display: inline-block;
+	text-align: center;
+	position: relative;
+}
 
 
 a {
