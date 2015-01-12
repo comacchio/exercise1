@@ -30,7 +30,7 @@ body{
 }
 
 .main{
-    width: 70%;
+    width: 60%;
     margin: 5em auto;
 }    
 
@@ -40,11 +40,6 @@ h1{
 	font-size: 3em;
     text-align: center;
     padding-bottom: 1.5em;
-}
-
-.all-icons{
-    width: 100%;
-    margin: 5em auto;
 }
 
 figure{
