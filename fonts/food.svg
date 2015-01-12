@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="table" unicode="&#xe800;" d="m425 14v-126h-47l-5 343h-29l-5-343h-54l-5 343h-29l-5-343h-49l-5 341h-29l-5-341h-49v126h1v206c0 2 0 3 0 5 2 15 16 78 72 101 11 4 19 14 21 26 10 64 35 260-2 366-1 2-1 4-2 7-2 15-8 74 61 91 7 1 14 1 20 0 31-7 76-33 55-100-25-80-21-290 0-370 2-9 8-17 16-21 22-13 68-44 70-89 2-34 3-136 3-222h1z m335 348c-17 89-20 279 4 354 21 67-24 93-55 100-7 1-13 2-20 0-68-17-63-76-61-91 1-2 1-4 2-7 35-100 15-280 4-354-71-33-122-124-122-232 0-46 10-90 27-128 13-28 29-52 49-71 12-12 25-21 39-29 14-8 29-13 45-16 7-1 15-2 23-2s16 1 24 2c17 4 34 10 50 19 14 8 27 19 38 31 20 21 36 46 48 76 14 35 23 75 23 118-1 105-49 194-118 230z" horiz-adv-x="1000" />
+<glyph glyph-name="farm" unicode="&#xe803;" d="m196-116h-78c0 5-1 9-1 14v316c0 55 39 102 91 115v417c0 38 31 70 70 70 19 0 36-8 49-21 13-13 21-30 21-50v-417c50-14 86-60 86-115v-315c0-4 0-9 0-14h-62v295h-49v-295h-77v299h-50v-299z m582 438v428c0 36-28 65-64 65h-13c-35 0-64-29-64-65v-430c-57-9-113-30-113-30v-59l16-3c20-333 169-345 169-345 175 64 173 348 173 348h13v59c-23 14-95 28-117 32z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
